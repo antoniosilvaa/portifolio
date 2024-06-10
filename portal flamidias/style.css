@@ -1,0 +1,46 @@
+@charset "utf-8";
+body{
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+p{
+    color: rgb(0, 0, 0);
+}
+div{
+    text-align: center;
+}
+iframe{
+    max-width: 100%;
+}
+img{
+    max-width: 100%;
+}
+h1{
+    text-align: center;
+}
+.mbape{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+}
+.real{
+    color: red;
+}
+.buscas{
+    color: red;
+}
+.reportagem{
+    color: red;
+    bottom: unset;
+}
+.pulga{
+    color: red;
+}
+.logo{
+    text-align: center;
+}
+.insta{
+    text-align: center;
+}
