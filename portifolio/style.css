@@ -17,3 +17,9 @@ p{
 .foto{
     text-align: center;
 }
+div > p{
+    display: none;
+}
+div:hover > p{
+    display: block;
+}
