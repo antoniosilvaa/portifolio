@@ -20,27 +20,14 @@ img{
 h1{
     text-align: center;
 }
-.mbape{
-    color: rgb(0, 0, 0);
-    text-align: center;
-    
-}
-.real{
+a{
+    text-decoration: none;
     color: red;
 }
-.buscas{
-    color: red;
+a:hover{
+    text-decoration: underline;
+    color: darkgray;
 }
-.reportagem{
-    color: red;
-    bottom: unset;
-}
-.pulga{
-    color: red;
-}
-.logo{
-    text-align: center;
-}
-.insta{
-    text-align: center;
+a:active{
+    color: black;
 }
