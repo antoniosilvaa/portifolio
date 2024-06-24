@@ -8,9 +8,6 @@ h1{
 p{
     color: rgb(0, 0, 0);
 }
-div{
-    text-align: center;
-}
 iframe{
     max-width: 100%;
 }
@@ -30,4 +27,19 @@ a:hover{
 }
 a:active{
     color: black;
+}
+.pulga{
+    text-align: center;
+}
+.couto{
+    text-align: center;
+}
+.fabricio{
+    text-align: center;
+}
+.mbappe{
+    text-align: center;
+}
+.logos{
+    text-align: center;
 }
