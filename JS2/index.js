@@ -2,7 +2,7 @@ let nome = prompt("Qual seu nome??")
 let idade = parseInt(prompt("voce tem quantos anos??"))
 let habl = prompt("voce possui carteira de motorista?? (sim//nao)")
 let carro = prompt("voce tem carro? (sim//nao)")
-
+// trabalhando com if, else, && = e, || = ou
 if ( idade < 18 && habl === "nao" ){
     alert(nome +" nao tem carteira, nao tem idade e dirigindo?? ta preso safado!!");
 } else if (idade >= 18 && habl === "sim" && carro === "nao" ){
